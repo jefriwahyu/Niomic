@@ -1,4 +1,4 @@
-# TUGAS NIOMIC 💻
+# NIOMIC 💻
 
 <b><i>Ini adalah tugas yang telah saya selesaikan dari Niomic Bootcamp.</i></b>
 <br />
